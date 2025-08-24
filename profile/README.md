@@ -11,11 +11,13 @@ Our approach blends **infrastructure + intelligence + community**, focused on so
 
 ### 🏢 Real Estate (K-Stack)
 Our real estate operating system for investors and operators.
-- **Korra** → AI-driven underwriting & due diligence for multifamily buyers  
-- **Kubo** → Compliance automation platform for eviction workflows  
-- **Kyra** → AI-powered operations copilot for property managers  
-- **Ketra** → Unified work order & CapEx management  
-- **Kavital** → Real estate holdco for all K-Stack ventures  
+
+- **Kavital** → Real estate holdco for all K-Stack ventures
+  - **Korra** → AI-driven underwriting & due diligence for multifamily buyers  
+  - **Kubo** → Compliance automation platform for eviction workflows  
+  - **Kyra** → AI-powered operations copilot for property managers  
+  - **Ketra** → Unified work order & CapEx management  
+  
 
 ### 🧠 Health Tech
 Building holistic systems for clinical, mental, and spiritual wellbeing.
@@ -23,12 +25,10 @@ Building holistic systems for clinical, mental, and spiritual wellbeing.
   - **Mindtonic** → Mental performance & cognitive health  
   - **Sanctum** → Spiritual wellness & inner life  
 
-### 🎙️ Media / Voice
-- **Voicehock** → Voice commerce & creator licensing  
-
 ### 🎮 Alternative Assets
 - **Pixl** → Youth sports & collectible media  
-- **Synk** → Gamified productivity & personal growth  
+- **Synk** → Gamified productivity & personal growth
+- **Voicehock** → Voice commerce & creator licensing
 
 ### ⚙️ InfraOps
 Ops-heavy alt real estate + enabling tech.
@@ -60,8 +60,7 @@ We’re always open to collaborators who want to build within or alongside the G
 ---
 
 ## 📬 Connect
-- Website (coming soon)  
-- Email: [team@greyborne.com](mailto:team@greyborne.com)  
-- LinkedIn / Twitter (to be added)  
+- https://greyborneco.com
+- Email: [team@greyborneco.com](mailto:team@greyborneco.com)  
 
 ---
