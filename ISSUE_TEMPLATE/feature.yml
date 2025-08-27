@@ -1,0 +1,34 @@
+name: "Feature"
+description: "Feature request template for MVP agents and API endpoints"
+title: "Feature: [Short descriptive title]"
+labels: ["feature"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: "## Description\nDescribe the feature and its purpose."
+
+  - type: markdown
+    attributes:
+      value: "## Goals\n- List main goals of this feature."
+
+  - type: markdown
+    attributes:
+      value: "## Requirements\n1. List functional requirements clearly.\n2. Include input/output expectations and data format if relevant.\n3. Include any database, API, or integration dependencies."
+
+  - type: markdown
+    attributes:
+      value: "## Acceptance Criteria\n- [ ] List concrete, testable criteria.\n- Include success and failure cases.\n- Define performance or reliability expectations."
+
+  - type: markdown
+    attributes:
+      value: "## Dependencies\n- List any other tickets, models, endpoints, or services that must be implemented first."
+
+  - type: markdown
+    attributes:
+      value: "## Notes\n- Additional context or design considerations.\n- Include MVP vs future enhancements if relevant."
+
+  - type: markdown
+    attributes:
+      value: "## Story Points\n- Estimate effort using your standard point system."
